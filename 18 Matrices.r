@@ -43,7 +43,12 @@ newmatrix <- cbind(thismatrix, c("strawberry", "blueberry", "raspberry"))
 newmatrix
 
 
-# 
+# Use the rbind() function to add additional rows in a Matrix:
+thismatrix <- matrix(c("apple", "banana", "cherry", "orange","grape", "pineapple", "pear", "melon", "fig"), nrow = 3, ncol = 3)
+
+newmatrix <- rbind(thismatrix, c("strawberry", "blueberry", "raspberry"))
+
+newmatrix
 
 
 
