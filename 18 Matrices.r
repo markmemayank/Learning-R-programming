@@ -50,5 +50,13 @@ newmatrix <- rbind(thismatrix, c("strawberry", "blueberry", "raspberry"))
 
 newmatrix
 
+#Use the c() function to remove rows and columns in a Matrix:
+thismatrix <- matrix(c("apple", "banana", "cherry", "orange", "mango", "pineapple"), nrow = 3, ncol =2)
+
+#Remove the first row and the first column
+thismatrix <- thismatrix[-c(1), -c(1)]
+
+thismatrix
+
 
 
