@@ -50,6 +50,7 @@ newmatrix <- rbind(thismatrix, c("strawberry", "blueberry", "raspberry"))
 
 newmatrix
 
+
 #Use the c() function to remove rows and columns in a Matrix:
 thismatrix <- matrix(c("apple", "banana", "cherry", "orange", "mango", "pineapple"), nrow = 3, ncol =2)
 
@@ -59,4 +60,8 @@ thismatrix <- thismatrix[-c(1), -c(1)]
 thismatrix
 
 
+#To find out if a specified item is present in a matrix, use the %in% operator:
+thismatrix <- matrix(c("apple", "banana", "cherry", "orange"), nrow = 2, ncol = 2)
+
+"apple" %in% thismatrix
 
