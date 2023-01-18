@@ -60,7 +60,7 @@ thismatrix <- thismatrix[-c(1), -c(1)]
 thismatrix
 
 
-#To find out if a specified item is present in a matrix, use the %in% operator:
+#To find out if a specified item is present in a matrix, use the %in% operator
 thismatrix <- matrix(c("apple", "banana", "cherry", "orange"), nrow = 2, ncol = 2)
 
 "apple" %in% thismatrix
