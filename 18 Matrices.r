@@ -1,4 +1,4 @@
-# A matrix can be created with the matrix() function. Specify the nrow and ncol parameters to get the amount of rows and columns:
+# A matrix can be created with the matrix() function. Specify the nrow and ncol parameters to get the amount of rows and columns
 
 
 # Create a matrix
