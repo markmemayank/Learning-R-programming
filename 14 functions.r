@@ -71,7 +71,7 @@ Outer_func <- function(x) {
 output <- Outer_func(3) # To call the Outer_func
 output(5)
 
-# Recursion
+# Recursion function
 tri_recursion <- function(k) {
   if (k > 0) {
     result <- k + tri_recursion(k - 1)
