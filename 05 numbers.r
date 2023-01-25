@@ -14,7 +14,7 @@ d <- 80L
 e <- 3i + 7
 f <- 7i + 9
 
-# Print values of respective
+# Print values of respective:
 a
 b
 c
