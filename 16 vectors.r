@@ -1,4 +1,4 @@
-# A vector is simply a list of items that are of the same type.
+# A vector is simply a list of items that are of the same type
 
 
 # Vector of strings
