@@ -1,6 +1,6 @@
 # string is surrounded by either single quotation marks, or double quotation marks
-"My name is Mayank"
-'My name is Mayank'
+"My name is Mayank Kumar"
+'My name is Mayank Kumar'
 
 #WE can assign a string to a variable
 str <- "My name is mayank
