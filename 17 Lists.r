@@ -51,7 +51,7 @@ newlist <- alist[-1]
 newlist #printing new list
 
 
-#Range of list
+#Range of lists
 alist <- list("apple", "banana", "cherry", "orange", "kiwi", "melon", "mango")
 
 (alist)[2:5]
