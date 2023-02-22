@@ -60,7 +60,7 @@ Nested_function <- function(x, y) {
 
 Nested_function(Nested_function(2,2), Nested_function(3,3))
 
-# By Writing a function within a function.
+# By Writing a function within a function
 Outer_func <- function(x) {
   Inner_func <- function(y) {
     a <- x + y
