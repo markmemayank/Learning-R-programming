@@ -1,14 +1,14 @@
 # A vector is simply a list of items that are of the same type
 
 
-# Vector of strings
+# Vector of string
 fruits <- c("banana", "apple", "orange")
 
 # Print fruits
 fruits
 
 
-# Vector of numerical values
+# Vector of numerical value
 numbers <- c(1, 2, 3)
 
 # Print numbers
