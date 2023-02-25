@@ -33,7 +33,7 @@ my_function()
 print(txt)
 
 
-# Also, use the global assignment operator if you want to change a global variable inside a function:
+# Also use the global assignment operator if you want to change a global variable inside a function:
 
 txt <- "awesome"
 my_function <- function() {
