@@ -28,7 +28,7 @@ str1 <- "is Mayank"
 paste(str, str1)
 
 # escape character
-str <- "We are using \"Github\" from the start."
+str <- "We are using \"Github\" from the day1."
 
 str
 cat(str)
