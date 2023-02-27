@@ -3,7 +3,7 @@
 'My name is Mayank Kumar'
 
 #WE can assign a string to a variable
-str <- "My name is mayank
+str <- "My name is Mayank Kumar
 i am putting all my 
 program of R in a repo"
 str
