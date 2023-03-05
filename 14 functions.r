@@ -28,7 +28,7 @@ my_function <- function(country = "Norway") {
 
 my_function("Sweden")
 my_function("India")
-my_function() # will get the default value, which is Norway
+my_function() # will get the default value, which is Norway in this case
 my_function("USA")
 
 # Return Values Example 1
