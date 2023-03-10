@@ -5,3 +5,6 @@ thisarray
 # An array with more than one dimensions
 multiarray <- array(thisarray, dim = c(4, 3, 2))
 multiarray
+
+
+#will be adding more about array
