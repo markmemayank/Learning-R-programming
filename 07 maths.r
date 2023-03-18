@@ -7,7 +7,7 @@
 # Multiplications
 5 * 5
 
-# Divisions 
+# Division
 10 / 2
 
 # Max & Min
