@@ -1,6 +1,6 @@
-name <- "Shivam"
+name <- "Mayank"
 age <- 40
-name1 <- "Raman"
+name1 <- "Shivam"
 age2 <- 30 
 
 paste("My name is", name)
