@@ -3,5 +3,5 @@ thisarray <- c(1:24)
 thisarray
 
 # An array with more than one dimension
-multiarray <- array(thisarray, dim = c(4, 3, 1))
+multiarray <- array(thisarray, dim = c(4, 3, 1,7))
 multiarray
