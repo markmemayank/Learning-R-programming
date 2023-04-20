@@ -19,7 +19,7 @@ while (a < 10) {
 
 "Out put of next statement"
 
-#next statement
+#next statements
 a <- 1
 while (a < 10) {
   a <- a + 1
