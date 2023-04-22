@@ -6,7 +6,7 @@
 10 * 5 #multiplication
 10 / 5 #division
 10 %% 5 #modulus
-10 ^ 5 #exponentiation
+10 ^ 5 #exponentiations
 10 %/% 5 #integer division
 
 # Assignment operators (Assignment operators are used to assign values to variables)
