@@ -8,9 +8,11 @@
 
 # Multiplications
 5 * 5
+9 * 0
 
 # Division
 10 / 2
+8 / 2
 
 # Max & Min
 max(5, 10, 15)
