@@ -1,8 +1,10 @@
 # Additions
 10 + 8
+9 + 9
 
 # Subtractions
 19 - 7
+16 - 9
 
 # Multiplications
 5 * 5
