@@ -2,7 +2,7 @@
 thisarray <- c(1:24)
 thisarray
 
-# An array with more than one dimension
+# An array with more than one dimensions
 multiarray <- array(thisarray, dim = c(4, 3, 1,7))
 multiarray
 
